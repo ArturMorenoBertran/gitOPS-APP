@@ -27,6 +27,9 @@ If all goes well, a Docker image of the code will be built and uploaded to Amazo
 We will use Helm Charts to dynamically create the Docker image name and its tag.
 The Kubernetes cluster will detect the tag change in the image and download it from ECR to run the application.
 
+**The application I use, I took it from the course "DevOps Beginners to Advanced with Projects" made by Imran Teli**
+
+
 **#############**
 **Before start**
 **#############**
